@@ -1,0 +1,4 @@
+C:\Users\barre\source\repos\App\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barre\source\repos\App\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\barre\source\repos\App\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+C:\Users\barre\source\repos\App\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
